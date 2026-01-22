@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Account and Data Deletion — I am fine</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #222;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            background: #ffffff;
+            padding: 24px 32px;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #111;
+        }
+        h1 {
+            margin-top: 0;
+        }
+        ul, ol {
+            margin-left: 20px;
+        }
+        .app-info {
+            margin-bottom: 24px;
+            padding: 12px;
+            background-color: #f1f3f4;
+            border-radius: 6px;
+        }
+        .highlight {
+            font-weight: bold;
+        }
+        .footer {
+            margin-top: 32px;
+            font-size: 14px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+
+    <h1>Account and Data Deletion</h1>
+
+    <div class="app-info">
+        <p><span class="highlight">Application:</span> I am fine</p>
+        <p><span class="highlight">Developer:</span> mamindeveloper</p>
+    </div>
+
+    <h2>How to request account deletion</h2>
+
+    <h3>Method 1. Through the app</h3>
+    <ol>
+        <li>Open the <strong>I am fine</strong> app</li>
+        <li>Go to <strong>Settings</strong></li>
+        <li>Select <strong>Delete account</strong></li>
+        <li>Confirm deletion</li>
+    </ol>
+
+    <h3>Method 2. By email</h3>
+    <ol>
+        <li>Send an email to: <strong>mamindeveloper@gmail.com</strong></li>
+        <li>Use the subject: <strong>Account deletion</strong></li>
+        <li>Include the email address used to register in the app</li>
+    </ol>
+
+    <h2>What data is deleted</h2>
+    <p>
+        When an account is deleted from the <strong>I
